@@ -9,7 +9,8 @@ This project is working on Google Map generations using Pix2Pix and CycleGAN mod
 Since this project is a image-to-image translation problem, so using GAN type models, specifically Pix2Pix and CycleGAN are really useful to handle this task. In this project I also compare two models' preformance by:
 ```
 - Inspect the generated images from Pix2Pix and CycleGAN and compare which generate higher quality images.
-- Use Frechet Inception Distance(FID) to measure the distributions between the generated image to the real image and compare the results
+- Use Frechet Inception Distance(FID) to measure the distributions between the generated images 
+and the real images and compare the results
 
 ```
 For more information, please review the project report:
